@@ -1,0 +1,4 @@
+# .gitignore
+.env
+credentials.json
+.DS_Store

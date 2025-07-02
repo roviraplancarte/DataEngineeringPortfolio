@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+gspread
+oauth2client
+python-dotenv
+pandas
+dateparser
+urllib3 
